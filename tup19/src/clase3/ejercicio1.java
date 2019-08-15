@@ -17,8 +17,8 @@ public class ejercicio1 {
 		matriz[2][1]=8;
 		matriz[2][2]=9;
 		System.out.println("Imprimir matriz.");
-		for (int x=0;x<3;x++) {
-			for (int y=0;y<3;y++) {
+		for (int x=0;x<matriz.length;x++) {
+			for (int y=0;y<matriz[x].length;y++) {
 				System.out.print(matriz[x][y]+" ");
 			}
 			System.out.println();
