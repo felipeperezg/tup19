@@ -4,5 +4,14 @@
 		<item value="E:\BACKUP 151117\Bodega\FELIPE 2k17\UTN\tsp\Gitjab\tup19"/>
 	</list>
 	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="E:\BACKUP 151117\Bodega\FELIPE 2k17\UTN\tsp\Gitjab\tup19\tup19\src"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
 	</section>
 </section>
